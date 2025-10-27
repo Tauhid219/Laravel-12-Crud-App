@@ -21,7 +21,7 @@ Run Laravel App
 
 You can download code from git:
 
-[text](https://github.com/savanihd/Laravel-12-CRUD-Application)
+https://github.com/savanihd/Laravel-12-CRUD-Application
 
 I hope it can help you...
 
